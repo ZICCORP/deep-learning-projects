@@ -10,4 +10,4 @@ pinned: false
 license: bsd-2-clause
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces#reference
+Play with the model at https://huggingface.co/spaces/Ukemelem/Bank-customer-churn-prediction
