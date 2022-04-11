@@ -1,0 +1,3 @@
+'CreditScore','Gender','Age','Tenure','Balance','NumOfProducts','HasCrCard','IsActiveMember','EstimatedSalary','Location','output','timestamp'
+'5000','Male','','','','','Yes','Yes','','France','','2022-04-06 01:31:25.713222'
+'200','Male','28','4','2000','2','Yes','Yes','12000','France','{"probability customer will stay (%)": "0.97", "probability customer will exit (%)": "0.03"}','2022-04-08 02:35:38.294462'
